@@ -12,18 +12,6 @@ BlueSky is an Android mobile application for a travel agency that allows users t
 * 🏨 Hotel suggestions for destinations
 * 👤 Account management with booking history
 
-## ✨ Presentation
-<div align="center">
-  <p float="left">
-    <img src="images/image_scene.jpg" width="400" alt="Scene Screenshot 1"/>
-    <img src="images/image2.png" width="400" alt="Scene Screenshot 2"/>
-  </p>
-  <p float="left">
-    <img src="images/image3.png" width="400" alt="Scene Screenshot 3"/>
-    <img src="images/image4.png" width="400" alt="Scene Screenshot 4"/>
-  </p>
-</div>
-
 ## 🏗️ Project Structure
 The project follows an Activity and Fragment-based architecture:
 * **MainActivity**: Main entry point with navigation drawer
